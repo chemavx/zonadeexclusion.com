@@ -2,25 +2,31 @@
  "/": {
   "code": 200,
   "fichero": "index.html",
-  "sha256": "1b55fb8a24900bdc32cf54802ec4aef513d7c48d742e444ad5c8129ce49e449f",
+  "sha256": "d1489eeaf2cadc82f9aed5cca0333cc6bafacaf1b82678ff3777804df76973f1",
   "tipo": "text/html"
  },
  "/222-archivos-ovni-desclasificados-pentagono-2026/": {
   "code": 200,
   "fichero": "222-archivos-ovni-desclasificados-pentagono-2026/index.html",
-  "sha256": "7706c96be7339b6b8bda501cfda345003a2800aab22d494b5012e3f17b750ae3",
+  "sha256": "7899d2a7886d0b569018853799af4f95a1016827dd20043ff1e58a7bf0e6511a",
+  "tipo": "text/html"
+ },
+ "/aaro-2024-ocho-decadas-investigacion-oficial/": {
+  "code": 200,
+  "fichero": "aaro-2024-ocho-decadas-investigacion-oficial/index.html",
+  "sha256": "d6093a5333c1bc29b5a65829bef6dd867c4e99ec2f714356ce0592700888ed51",
   "tipo": "text/html"
  },
  "/aaro-vs-grusch-pentagono-testimonio-contradiccion/": {
   "code": 200,
   "fichero": "aaro-vs-grusch-pentagono-testimonio-contradiccion/index.html",
-  "sha256": "872ce1f58703bee7096e891a24a05e114be219c46f711f2807885a84048c5ba8",
+  "sha256": "a05854b5f5a4a7c55e90d14fb2311265cb4816964b7ab3c983fb5eda172230d5",
   "tipo": "text/html"
  },
  "/aawsap-37-dird-lista-completa-contrato/": {
   "code": 200,
   "fichero": "aawsap-37-dird-lista-completa-contrato/index.html",
-  "sha256": "236f559bb62d4424ac8a06bd9715d65221eac59023d244687a3cc94767568e2d",
+  "sha256": "1e3e561deec07f7940cd0073dc3a902d2706ea99129ea70687aeccc899822781",
   "tipo": "text/html"
  },
  "/about/": {
@@ -32,19 +38,19 @@
  "/archivos-pursue-uap-bases-nucleares-desclasificado/": {
   "code": 200,
   "fichero": "archivos-pursue-uap-bases-nucleares-desclasificado/index.html",
-  "sha256": "fd2985ed8518bddde3b4b7c0ef9db9b4b267fa2f63d7e3285bcca247cda983dd",
+  "sha256": "62bcf050c4bce07dce8ad876d73913ad7a2d487da9519e69e8100706bc38b20f",
   "tipo": "text/html"
  },
  "/area-51-2013-desclasificacion-cia/": {
   "code": 200,
   "fichero": "area-51-2013-desclasificacion-cia/index.html",
-  "sha256": "f2a378a9cbd8d16ae7672786debed40d77e93394998d20da608021cfeb6601ed",
+  "sha256": "1cda103d09c034261916552015826594b2670fe674a1e5fdcab49c612d7cac97",
   "tipo": "text/html"
  },
  "/ariel-school-1994-zimbabwe-encuentro-ovni/": {
   "code": 200,
   "fichero": "ariel-school-1994-zimbabwe-encuentro-ovni/index.html",
-  "sha256": "b3837dbae15b52f0523280901c858c344a3a1dd0fea3eb6f8bc5678e3f46b3b2",
+  "sha256": "778261f68a27bb9cc457afa65e541a7e6794aa084754a1c16811bc85de71c57c",
   "tipo": "text/html"
  },
  "/assets/built/main.min.js": {
@@ -188,97 +194,97 @@
  "/author/chemavx/": {
   "code": 200,
   "fichero": "author/chemavx/index.html",
-  "sha256": "c86f120a37719f8f58a699a4b1d99e337eb950f359b4d5370345bc7e1a3cf725",
+  "sha256": "5276e031547f8d4e811d96dcd48f60f78fbfd6c1527cb9e1ee54f5e54fc98c36",
   "tipo": "text/html"
  },
  "/author/chemavx/page/2/": {
   "code": 200,
   "fichero": "author/chemavx/page/2/index.html",
-  "sha256": "599b0cabc0ca8fbb7510d0211da1c48038af079b60dad20e757ee8943a8c34af",
+  "sha256": "d6b977a7d4beafedafc8721c947d05c23e3fcda8a18f3eeca138d1e9263eb62b",
   "tipo": "text/html"
  },
  "/author/chemavx/page/3/": {
   "code": 200,
   "fichero": "author/chemavx/page/3/index.html",
-  "sha256": "e6911fefa513414e6faab20b9cce368d22b07ea9cc08bd5d9472da32a3d55996",
+  "sha256": "c57eacb6f64ce8a6f7099ba3b1cac7021397e2d1375aebfcd74507954036d61b",
   "tipo": "text/html"
  },
  "/author/chemavx/page/4/": {
   "code": 200,
   "fichero": "author/chemavx/page/4/index.html",
-  "sha256": "9ce99e49809ef946f5336d61fa806a02af4a94aed7cde7f6346c7275fbe33fcc",
+  "sha256": "75bdb74f3feacc2523d2f5e2b26b801c45ee809fc322b9a3cba56e4ce1ca5226",
   "tipo": "text/html"
  },
  "/author/chemavx/page/5/": {
   "code": 200,
   "fichero": "author/chemavx/page/5/index.html",
-  "sha256": "08934a6f653a10b2e7da9614b771113f0b9483971a3545af3b7bd9519df65737",
+  "sha256": "6694a16bcddf23f1ee04f17ff9f7d7f1c9582c5afb09397157303c664250f1d7",
   "tipo": "text/html"
  },
  "/author/chemavx/page/6/": {
   "code": 200,
   "fichero": "author/chemavx/page/6/index.html",
-  "sha256": "1b83254bc9d4c8716c2de2881f76992942900f0743e4ddea83ad8c8ffc8ea862",
+  "sha256": "bcf76ff262b56c3396a370e71fe7fc53cddd552046f00ea5dc43d314a6a155be",
   "tipo": "text/html"
  },
  "/author/chemavx/page/7/": {
   "code": 200,
   "fichero": "author/chemavx/page/7/index.html",
-  "sha256": "34613ae58a5e3d2a90cfcdf73e5a6b22d0a6890885b3d398d49d988693b4a212",
+  "sha256": "41b382a149d0c2ec1743cdf401ca6b714059d09d41a50eb3ac92fcaef40944a8",
   "tipo": "text/html"
  },
  "/batalla-los-angeles-1942-ovni-antiaereo/": {
   "code": 200,
   "fichero": "batalla-los-angeles-1942-ovni-antiaereo/index.html",
-  "sha256": "c1f1485d4580f2c118b9bc5474176426efbda4f5382b0b7007e40c83eccc05c1",
+  "sha256": "3fca2ce6d9241a4853772cbea07b5d26acb5602fb971b368706c24fe197dbf66",
   "tipo": "text/html"
  },
  "/betty-y-barney-hill-1961-el-primer-caso-de-abduccion-extraterrestre-documentado/": {
   "code": 200,
   "fichero": "betty-y-barney-hill-1961-el-primer-caso-de-abduccion-extraterrestre-documentado/index.html",
-  "sha256": "15491a2869f445a0df212c9f5d9dee260579eebc92c80a9cef30e72f3f1dbda1",
+  "sha256": "5c7f656e5707359ce6cc76abc06c18a34bbba7c085991dbc5809148f96d6893d",
   "tipo": "text/html"
  },
  "/campeche-2004-los-once-ovnis-que-solo-veia-el-infrarrojo/": {
   "code": 200,
   "fichero": "campeche-2004-los-once-ovnis-que-solo-veia-el-infrarrojo/index.html",
-  "sha256": "103155d8031e065582cf4d0d34303725d0c1238e383cf5cbc906241483cf014f",
+  "sha256": "f8b8df4fe89b878627dd4d5fe8a5e0d6b0b95b852af893f31cf8da74260bf21b",
   "tipo": "text/html"
  },
  "/cash-landrum-1980-demanda-ovni-tribunal-federal/": {
   "code": 200,
   "fichero": "cash-landrum-1980-demanda-ovni-tribunal-federal/index.html",
-  "sha256": "15f91203af5f4c9f6a55f4c8c4e3d16f548677b7925f90d692f537f0f4e65fa5",
+  "sha256": "901b8b7405ea08bb3b4f7d60aeb7cbc052047ea8d886fdd971276cd90208e8ee",
   "tipo": "text/html"
  },
  "/caso-ummo-1966-fraude-ovni-espana/": {
   "code": 200,
   "fichero": "caso-ummo-1966-fraude-ovni-espana/index.html",
-  "sha256": "2d51567fbc677db0efbe4ff3549fb77871a159bf7ddafaf5eb26dc7ecb19cf07",
+  "sha256": "460dd5a542a776b407894b19f13be9ce263d62cf58c3fe7e30db6e118771bbb4",
   "tipo": "text/html"
  },
  "/catalina-1949-1955-expedientes-uap-sin-resolver-pursue/": {
   "code": 200,
   "fichero": "catalina-1949-1955-expedientes-uap-sin-resolver-pursue/index.html",
-  "sha256": "1a0c765194650cbaa7fdcacb2d1bc7e1b52ed57cde97c7b2e3a5d424cc65f324",
+  "sha256": "2a1d2faa87314bc8f835632ca9845f6e3de3244f1b7005131d0119bf6cd8c28b",
   "tipo": "text/html"
  },
  "/cefaa-chile-unidad-oficial-ovni/": {
   "code": 200,
   "fichero": "cefaa-chile-unidad-oficial-ovni/index.html",
-  "sha256": "695e1aec4fb041e3395f52ff221ba207ee142771a67bc25a9a76ac90ac184094",
+  "sha256": "8b2a97ba2907959d3569ae760f9467011fe1b7022dd3858c18f63a8edc3976c1",
   "tipo": "text/html"
  },
  "/chiles-whitted-1948-piloto-eastern-airlines-ovni/": {
   "code": 200,
   "fichero": "chiles-whitted-1948-piloto-eastern-airlines-ovni/index.html",
-  "sha256": "d1997b3a90971301ca3670ec048e5de24be29c316767d338d462fa02ddc3e813",
+  "sha256": "dccca59b29be2b6372143725e46524e2903676a0713dbff0342094bdfbefe431",
   "tipo": "text/html"
  },
  "/colares-1977-operacion-prato-chupa-chupa/": {
   "code": 200,
   "fichero": "colares-1977-operacion-prato-chupa-chupa/index.html",
-  "sha256": "210e026aab8d4764f58ab667b7e7751d5a86dde96507ae7dae545d11e381d4a7",
+  "sha256": "789b7f444dc5351878b3c75daa6c72762e130c70741ce311fea3d2212e436826",
   "tipo": "text/html"
  },
  "/content/images/2026/05/albert-antony-HWQXIYbs8PM-unsplash.jpg": {
@@ -501,6 +507,12 @@
   "code": 200,
   "fichero": "content/images/2026/10/colares-1977-operacion-prato-chupa-chupa-infographic.webp",
   "sha256": "d0ed59d21ddd9f2ee1ec56e6be1ddf8c7f8da18508e5d74671f1feff04e3c52b",
+  "tipo": "image/webp"
+ },
+ "/content/images/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "9f071197447f6b8b94e393ce1d49648206a5b901e72685691d907c6c1e66620f",
   "tipo": "image/webp"
  },
  "/content/images/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
@@ -903,6 +915,12 @@
   "code": 200,
   "fichero": "content/images/size/w1140/2026/10/colares-1977-operacion-prato-chupa-chupa-infographic.webp",
   "sha256": "272e218057c8bd13ceef5a02779db9be5f288a2087ef8b088fd19f6b5a8f16a7",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1140/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1140/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "9f4e058d9d1dc01b54b04c15c49402578eaea8b4dfdf28a24573e55e07df4191",
   "tipo": "image/webp"
  },
  "/content/images/size/w1140/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
@@ -1451,6 +1469,12 @@
   "sha256": "6c9e398c05a955f454cb25e56acadf4b76f76c196be65d80a98568260255690f",
   "tipo": "image/webp"
  },
+ "/content/images/size/w400/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w400/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "febf02e5c8b1e933d55350e9371f0e2b439ef9e6a4f9a5802c6f7b12ddab4bd4",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w400/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
   "code": 200,
   "fichero": "content/images/size/w400/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp",
@@ -1845,6 +1869,12 @@
   "code": 200,
   "fichero": "content/images/size/w750/2026/10/colares-1977-operacion-prato-chupa-chupa-infographic.webp",
   "sha256": "ea38fa28d1a63c85254cd37a92bae69217a60b7eb5c7a1c17216b3c9ceabd5dd",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w750/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w750/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "581ef2a0567a0aa7dcc9631bee4662563839ab0118d0703b31caf2f2e2e47a78",
   "tipo": "image/webp"
  },
  "/content/images/size/w750/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
@@ -2243,6 +2273,12 @@
   "sha256": "daf4a9b940d415eabf0395e8211d343190f016c1709abf7c0630656fb542c978",
   "tipo": "image/webp"
  },
+ "/content/images/size/w960/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w960/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "4fcce69965f7d1450f0c34f5b80a6c4e18157a35cb6bd124cb7a5839d3102168",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w960/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
   "code": 200,
   "fichero": "content/images/size/w960/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp",
@@ -2450,31 +2486,31 @@
  "/eeuu-desclasifica-162-archivos-secretos-sobre-ovnis-y-vida-extraterrestre-el-pentagono-abre-sus-bovedas/": {
   "code": 200,
   "fichero": "eeuu-desclasifica-162-archivos-secretos-sobre-ovnis-y-vida-extraterrestre-el-pentagono-abre-sus-bovedas/index.html",
-  "sha256": "d085003c47aa66c70f5d1a69fe84717131106cb0f3fe14480a4619a5801ce3e0",
+  "sha256": "2b493f6b614ad3f9e0d84898d7962d5b5953582ead19fe05a9e6d0559d5c7b99",
   "tipo": "text/html"
  },
  "/el-incidente-nimitz-2004-cuando-pilotos-de-caza-f-18-se-toparon-con-lo-inexplicable/": {
   "code": 200,
   "fichero": "el-incidente-nimitz-2004-cuando-pilotos-de-caza-f-18-se-toparon-con-lo-inexplicable/index.html",
-  "sha256": "624fb9d0861cf330830504216887f33cabe6661a24599e2d237361d13e1e6e52",
+  "sha256": "4fc3d9aac56868c0eac4e1be219ff77e42c2a85358aacc159198df0c3ef99f81",
   "tipo": "text/html"
  },
  "/el-incidente-ovni-de-rendlesham-forest-1980-el-caso-mas-documentado-de-la-historia-militar-britanica/": {
   "code": 200,
   "fichero": "el-incidente-ovni-de-rendlesham-forest-1980-el-caso-mas-documentado-de-la-historia-militar-britanica/index.html",
-  "sha256": "c41fe9ad39c2e790185e7cdb983416fa65100d0fef10a2c847ea8d6d15c4881b",
+  "sha256": "669ad476069b4376b7a5c0f13ccd529f834ebb72e65594f315753a3e4b19d20d",
   "tipo": "text/html"
  },
  "/el-testimonio-de-david-grusch-el-denunciante-que-cambio-la-conversacion-sobre-ovnis-en-el-congreso-de-ee-uu/": {
   "code": 200,
   "fichero": "el-testimonio-de-david-grusch-el-denunciante-que-cambio-la-conversacion-sobre-ovnis-en-el-congreso-de-ee-uu/index.html",
-  "sha256": "31e467991fc4941ffacaa59e704bec8ec2364c73873bc0392e4f0f2c477a2fce",
+  "sha256": "129ce106e1bc6af7286f0785708ec028ad3fa71d96b60dd2e78997361352afd1",
   "tipo": "text/html"
  },
  "/expedientes-ovni-espana-desclasificados/": {
   "code": 200,
   "fichero": "expedientes-ovni-espana-desclasificados/index.html",
-  "sha256": "a2151b0c95257c2176b849a22e4cd784e275cf873b4f312d71e944f88f9ba516",
+  "sha256": "0ba66d9785127793ac4b3401cfad7d1b52dab843573b09fcccfdce59d26b6ae0",
   "tipo": "text/html"
  },
  "/favicon.ico": {
@@ -2484,25 +2520,25 @@
  "/fragmentos-espaciales-1962-1964-nasa-palabra-analizar/": {
   "code": 200,
   "fichero": "fragmentos-espaciales-1962-1964-nasa-palabra-analizar/index.html",
-  "sha256": "f7e9c679c3b2faf8c3154be2f962d637076076485ede2f99d787248370b12d88",
+  "sha256": "32167a6957b87dbd8ed4b208b74da832c36abfbd6e008e61929db3c7f538318a",
   "tipo": "text/html"
  },
  "/gary-mckinnon-el-hacker-que-vio-algo-en-los-servidores-de-la-nasa/": {
   "code": 200,
   "fichero": "gary-mckinnon-el-hacker-que-vio-algo-en-los-servidores-de-la-nasa/index.html",
-  "sha256": "8b08e02e4ea04007a25120b3e3a94d96f791b038d5191d6a23a06d67bc3a520c",
+  "sha256": "f052a54458a9a0baec6afee9732d25bb5bb2d483dd4fec8b512162de22738929",
   "tipo": "text/html"
  },
  "/gimbal-gofast-uap-uss-theodore-roosevelt-2015/": {
   "code": 200,
   "fichero": "gimbal-gofast-uap-uss-theodore-roosevelt-2015/index.html",
-  "sha256": "fc523088bafb83776e3b1a9a1b1f570bdb241aac4858ac0858bba6d839949244",
+  "sha256": "44647a627ce4d6027d7849818379287ae1e5fe634b6957b8d0ac95c696b0fd02",
   "tipo": "text/html"
  },
  "/grusch-capitolio-9-junio-2026-divulgacion-uap/": {
   "code": 200,
   "fichero": "grusch-capitolio-9-junio-2026-divulgacion-uap/index.html",
-  "sha256": "17453bc7d975d82a7af172a2c788bfd0562946bdf4a229f489bfdfee48053af4",
+  "sha256": "21432f51a211ce0075d30d3c90916e33ff9cce9cfe8ae4b14f42e5369fd84680",
   "tipo": "text/html"
  },
  "/guia-completa-casos-ovni/": {
@@ -2514,139 +2550,139 @@
  "/immaculate-constellation-programa-secreto-pentagon-ovni/": {
   "code": 200,
   "fichero": "immaculate-constellation-programa-secreto-pentagon-ovni/index.html",
-  "sha256": "001d4f0a80d0db5850ffdac6cc655cec8875b1b56e254b38891d6b6986e7e8d6",
+  "sha256": "5d5f40b45b60b85d8d093e30dee669e7e8a0f2b7068c4a99ad793f8497b3e300",
   "tipo": "text/html"
  },
  "/jal-1628-1986-alaska-luces-radar/": {
   "code": 200,
   "fichero": "jal-1628-1986-alaska-luces-radar/index.html",
-  "sha256": "99da23aea97aa2018f907782fece6288a7554fdcc4b6d15feef2f2f9fe32da4a",
+  "sha256": "55d2063830e540c1564a6570f28f542df444853784637c7b980ecf8be7702f2b",
   "tipo": "text/html"
  },
  "/kecksburg-1965-objeto-ejercito-pennsylvania/": {
   "code": 200,
   "fichero": "kecksburg-1965-objeto-ejercito-pennsylvania/index.html",
-  "sha256": "4263a103813a3a6b3c87feb8456e16a475839a4fbd5cfaa62a5b9407590a2ce3",
+  "sha256": "fac5ab2b80031310a2b15c3c63262d7029fb3f3b2619b9a7024f54ca43e8f06b",
   "tipo": "text/html"
  },
  "/kenneth-arnold-1947-platillos-volantes/": {
   "code": 200,
   "fichero": "kenneth-arnold-1947-platillos-volantes/index.html",
-  "sha256": "870c21269aecadbd9a2f19478ac12608863ac7863915c6643f45a9f4d0e034d1",
+  "sha256": "798e27bc0f4b41a70b375378a1d09c1d04c0f59babeb4dbc0946a6c5c34c063e",
   "tipo": "text/html"
  },
  "/la-explosion-de-luz-de-canarias-1976-testigos-militares-espanoles-desvelan-un-secreto-de-la-guerra-fria/": {
   "code": 200,
   "fichero": "la-explosion-de-luz-de-canarias-1976-testigos-militares-espanoles-desvelan-un-secreto-de-la-guerra-fria/index.html",
-  "sha256": "7b137fe95882451ddb1f1bc694a0bc52354c2fb9b5597387020ce3fd57e47f9a",
+  "sha256": "fbdb635324185f8bf2e9ca026df7becda61d72c44d87d4baf13e5de51639ea4e",
   "tipo": "text/html"
  },
  "/la-noche-que-el-cielo-se-nego-a-revelar-sus-secretos-el-caso-manises-de-1979/": {
   "code": 200,
   "fichero": "la-noche-que-el-cielo-se-nego-a-revelar-sus-secretos-el-caso-manises-de-1979/index.html",
-  "sha256": "371811f851236917df2d97699a226202e5499b40dd9ad35312a185f5dd1d444e",
+  "sha256": "68d6bb618052efc404e8fb3ce88a0e5076ae0d924ac6e02d6446e87cc2ce4c85",
   "tipo": "text/html"
  },
  "/las-revelaciones-del-pentagono-sobre-uap-un-hito-historico-en-la-busqueda-de-la-verdad-sobre-fenomenos-anomalos-no-identificados/": {
   "code": 200,
   "fichero": "las-revelaciones-del-pentagono-sobre-uap-un-hito-historico-en-la-busqueda-de-la-verdad-sobre-fenomenos-anomalos-no-identificados/index.html",
-  "sha256": "c1f9ece245155bb163ce7e007347b399624a321adb28677cb357b2e40c368cda",
+  "sha256": "3460e9909be4df951612c92ad84bef66674a189618123c16991a1be0ea26e775",
   "tipo": "text/html"
  },
  "/levelland-1957-coches-parados-texas/": {
   "code": 200,
   "fichero": "levelland-1957-coches-parados-texas/index.html",
-  "sha256": "5c7a7bfa816db9adb58e76725b668a6598f05e200e3b52297fbb45a43b7acc71",
+  "sha256": "bcdd0efd9f86dd44f75279a4fcf702f0d97776b4f9cfe769c36148bb28afdcef",
   "tipo": "text/html"
  },
  "/los-villares-1996-el-encuentro-extraterrestre-que-marco-la-ufologia-espanola/": {
   "code": 200,
   "fichero": "los-villares-1996-el-encuentro-extraterrestre-que-marco-la-ufologia-espanola/index.html",
-  "sha256": "c370423f223f01b3a472bee1a3f4d8ead74d65949424596f11195c6d8ee55f42",
+  "sha256": "b0b915d0dd792c66069cfd57383e29e690308d32541905d64a21c1ea4e080a29",
   "tipo": "text/html"
  },
  "/malmstrom-1967-misiles-nucleares-sin-explicacion/": {
   "code": 200,
   "fichero": "malmstrom-1967-misiles-nucleares-sin-explicacion/index.html",
-  "sha256": "fa9f4807d36bd3cb27ab4dd4a0e96aba7765f0c77f0bb770fdd9b971982b073c",
+  "sha256": "5bfbd756a99cd74924890ed2f885c9545020a0d3c7e933491108cd3f9c6048fd",
   "tipo": "text/html"
  },
  "/mar-amarillo-pr104-estrella-seis-puntas-analisis-forense/": {
   "code": 200,
   "fichero": "mar-amarillo-pr104-estrella-seis-puntas-analisis-forense/index.html",
-  "sha256": "7003e44c4aca5c7e374b8c54e23ecd2dd7e36032b37bdb7e817ab7f3cd168ff2",
+  "sha256": "7dde781b2769c2892a15a667684026cbab9c942433bdd7ed034cad9bd7d1497e",
   "tipo": "text/html"
  },
  "/memorando-wilson-davis-2002-acceso-denegado/": {
   "code": 200,
   "fichero": "memorando-wilson-davis-2002-acceso-denegado/index.html",
-  "sha256": "14b7279157a956e5674a2a3788f501b5058d71aaa7986fa3e73776cfa88b63fe",
+  "sha256": "e82d0de8f54e141c8596753044abdb0ca0df45ef4c6b17268d14544f07046258",
   "tipo": "text/html"
  },
  "/mj-12-1984-documentos-falsificacion/": {
   "code": 200,
   "fichero": "mj-12-1984-documentos-falsificacion/index.html",
-  "sha256": "d80f47ef116ead0b0814b19fcc21be19835f557bd8e2bf50aa83f618ec95609a",
+  "sha256": "36e5d88cb725fdeb402006f06fce6e4e10af45bcea49b86835b7aef350d8b1ab",
   "tipo": "text/html"
  },
  "/oleada-belga-1989-1990-f-16-triangulo/": {
   "code": 200,
   "fichero": "oleada-belga-1989-1990-f-16-triangulo/index.html",
-  "sha256": "1b8602e4785d0dfa7b8d91315294a49635b85deda91ac47a1a199288fead7cb7",
+  "sha256": "e3a65d80410af2f7377c977a38bbcff2f5ffbd94ef1f671585c31d96117bcd78",
   "tipo": "text/html"
  },
  "/page/2/": {
   "code": 200,
   "fichero": "page/2/index.html",
-  "sha256": "382a35382a3a167c13fa445643bc9c20d867405fb3460dfc108c1a854d202f47",
+  "sha256": "aed6bdaf5d02591fb0c4692cde04b6f0f30a49e4a2905555e399837d75ddc486",
   "tipo": "text/html"
  },
  "/page/3/": {
   "code": 200,
   "fichero": "page/3/index.html",
-  "sha256": "2523ff16b7db569a1d0cc68674fe5c4c73e65eddcb79045883f6ed54ad475c3f",
+  "sha256": "facc937e28cf2859fcc64b95f57971c817787be2cae7893e7a4ff1a38b34f3a2",
   "tipo": "text/html"
  },
  "/page/4/": {
   "code": 200,
   "fichero": "page/4/index.html",
-  "sha256": "a39fe37311cc8d811d6a9815d15f349ca2aa6fd93f13622a61114a5348532a43",
+  "sha256": "b918bd80938bd3186298701b047b2589c81c060ff98022d4f4add96eadaa7177",
   "tipo": "text/html"
  },
  "/page/5/": {
   "code": 200,
   "fichero": "page/5/index.html",
-  "sha256": "1c67614b61a0c8e9f190aa4bed47445244c85f105b13c1d77de4a1538d13be20",
+  "sha256": "9815a5c6701ff5f0d2ab40a3bd80760b878ef30ad9717841a3aa1682a623a85e",
   "tipo": "text/html"
  },
  "/page/6/": {
   "code": 200,
   "fichero": "page/6/index.html",
-  "sha256": "97ccd3bf7b3eb6acaa40091ab1b2013ee67379e83ef4dd6d43806b441e2b2812",
+  "sha256": "df66fdad5045b55709202862aa1a678a2e7411c63ae08da6bec73418f93f68d4",
   "tipo": "text/html"
  },
  "/page/7/": {
   "code": 200,
   "fichero": "page/7/index.html",
-  "sha256": "a6dfecdf8359c2b5cb9d882d2e84427f640fbbaaaef3d2f84b4a49237a7bcde4",
+  "sha256": "03c0377677513db4ef258ae5f00e525dd5ba1bd5cc04f4afff777e2cab1a0500",
   "tipo": "text/html"
  },
  "/pascagoula-1973-abduccion-hickson-parker/": {
   "code": 200,
   "fichero": "pascagoula-1973-abduccion-hickson-parker/index.html",
-  "sha256": "887734d6c5785c2e7d2e78f644a7301dbdbb65f38340038d74b98774969ae9dd",
+  "sha256": "1c1b26b65e91a7a012be772aa969a23a2dc2f342ebba2367880815fea6e9490a",
   "tipo": "text/html"
  },
  "/phoenix-lights-1997-la-noche-cuando-arizona-vio-lo-inexplicable/": {
   "code": 200,
   "fichero": "phoenix-lights-1997-la-noche-cuando-arizona-vio-lo-inexplicable/index.html",
-  "sha256": "02d4893eb1bab55d74742f1e4b87c181104170d415b772edd3bd4a04d4a40434",
+  "sha256": "6e2ba8ff6d9411a345ef6c1e0cac31ef8470474ef9422f22a4c03b691f71963d",
   "tipo": "text/html"
  },
  "/proyecto-libro-azul-701-casos-sin-explicar/": {
   "code": 200,
   "fichero": "proyecto-libro-azul-701-casos-sin-explicar/index.html",
-  "sha256": "550e67c084d8690ef45b6749b2bedf6d75036c49684c65e4aeae06c34409192b",
+  "sha256": "34a0830d2cbbaca29436ca0a11ac595b46aa92e5e332d72b164de50c2ffa3d3b",
   "tipo": "text/html"
  },
  "/public/cards.min.css": {
@@ -2670,37 +2706,37 @@
  "/pursue-lote-3-cia-confesion-apollo-2026/": {
   "code": 200,
   "fichero": "pursue-lote-3-cia-confesion-apollo-2026/index.html",
-  "sha256": "9d6f078bc5a64ff163b0d7beb32ccf9076d486a172cabd90d630d129491653d6",
+  "sha256": "8700dd32e05faa0ccfee2b00a0d568d83bade73478467c1e08616530f7d67fb1",
   "tipo": "text/html"
  },
  "/pursue-lote-4-pantex-los-alamos-nucleares-2026/": {
   "code": 200,
   "fichero": "pursue-lote-4-pantex-los-alamos-nucleares-2026/index.html",
-  "sha256": "64ffef6450695b76fc33de4668c8bc3fb17d2657d09f48d23ef0240f68048533",
+  "sha256": "2f48c3639ab15084803c945225c7e376e0997336e220709fc5856cd1f43ea0ad",
   "tipo": "text/html"
  },
  "/pursue-lote-5-memorando-1948-videos-censurados/": {
   "code": 200,
   "fichero": "pursue-lote-5-memorando-1948-videos-censurados/index.html",
-  "sha256": "9f70387bcf1a5709eb2d0ad83f02a507ebdd37829a07beb11128b03cfc407176",
+  "sha256": "5454a012bec660445c9fba036eccad1d8c0431a330d2ce8c34eccb7b81b360d7",
   "tipo": "text/html"
  },
  "/pursue-lote-6-aawsap-tremonton-2026/": {
   "code": 200,
   "fichero": "pursue-lote-6-aawsap-tremonton-2026/index.html",
-  "sha256": "367149cee539921777bb8c3f9787a2bbb93b09ab43041cc11f9926c1046e780d",
+  "sha256": "8c5076161067fea18b321113bf6bed22ab6231ceb334039b654d7cdcae0e18e7",
   "tipo": "text/html"
  },
  "/pursue-lote-6-forense-15-videos-censura/": {
   "code": 200,
   "fichero": "pursue-lote-6-forense-15-videos-censura/index.html",
-  "sha256": "c199c0853d982d6273c1e8eeb792b8e31448205f87ff7ee3915e02fd348372e5",
+  "sha256": "d91a6f4edaf6fa3b94b9aa1e1b189bb47a0b41e4baf69dee2d9741ff5666ffe4",
   "tipo": "text/html"
  },
  "/rancho-utah-2010-informe-baass-dia-pursue-lote-7/": {
   "code": 200,
   "fichero": "rancho-utah-2010-informe-baass-dia-pursue-lote-7/index.html",
-  "sha256": "6d8463608e07a4820bc3c7be973df0920536c4e8d2ea773b21235ae16652a32e",
+  "sha256": "bebcf00b3a6204d9c5b981122034dca644d7c1b63db0084336eeaa14fea94127",
   "tipo": "text/html"
  },
  "/robots.txt": {
@@ -2712,55 +2748,55 @@
  "/roswell-1947-el-misterio-que-cambio-la-historia-de-la-ufologia/": {
   "code": 200,
   "fichero": "roswell-1947-el-misterio-que-cambio-la-historia-de-la-ufologia/index.html",
-  "sha256": "b04755eddda7483e4d9f690c32dbe14b844694fabf44e7fc930c6d56d8615b26",
+  "sha256": "427a197e74082a3e5010e861e5071cfdbd6cd7d39c1d2a7450a667073b364146",
   "tipo": "text/html"
  },
  "/roswell-1947-preguntas-sin-respuesta-78-anos/": {
   "code": 200,
   "fichero": "roswell-1947-preguntas-sin-respuesta-78-anos/index.html",
-  "sha256": "258e0f4584308428a2afd67ad10d5b81156cee427fdce6069f325e0f9bad8cca",
+  "sha256": "6db0895e3aea47a1e1b66b5ee3551a59d74e825fbda45cecb083393ba24d8a59",
   "tipo": "text/html"
  },
  "/roswell-341-video-crater-analisis-forense/": {
   "code": 200,
   "fichero": "roswell-341-video-crater-analisis-forense/index.html",
-  "sha256": "30fb52719b9413ffe6e8386b81f5e0459cb77e96f4e8be6e1336a65838d0650e",
+  "sha256": "6c3c265514d390ed40bd5b2e1e98f823c765901e9397e4d16374522eb34dc91d",
   "tipo": "text/html"
  },
  "/rss/": {
   "code": 200,
   "fichero": "rss/index.html",
-  "sha256": "9b31159ec80c382eaf3f10fb23046217e23205debac24b69014922dd547bcf0d",
+  "sha256": "22f3c06c0005f01857e339fdcb24deac76ce1a112dd6cc7df03e720870f21be0",
   "tipo": "application/rss+xml"
  },
  "/segunda-desclasificacion-ovni-mayo-2026/": {
   "code": 200,
   "fichero": "segunda-desclasificacion-ovni-mayo-2026/index.html",
-  "sha256": "a2eb9d3fcd803af2a632f5414f98d05afebc3de8dfc4cbdea71c77f85804c699",
+  "sha256": "cf801e8c4cf5e70ecdf2fde13f00f7283c6716cfb48e1185135873a39b5e340a",
   "tipo": "text/html"
  },
  "/shag-harbour-1967-canada-no-identificado/": {
   "code": 200,
   "fichero": "shag-harbour-1967-canada-no-identificado/index.html",
-  "sha256": "cd81c71768d2ed7636c88879606a15eb59072e4a95204fff21b8bf24ee1886cb",
+  "sha256": "f2d14359e079777660299191f22861053e651558e1ac03760c5331aa2c6bf339",
   "tipo": "text/html"
  },
  "/sitemap-authors.xml": {
   "code": 200,
   "fichero": "sitemap-authors.xml",
-  "sha256": "8fb5e04c177dbe7d32620e53e43fa16b225bb6e8476f0f4affe216b5b79be35e",
+  "sha256": "d35093d68b6c852c31650f3fc6a02ffd523b5f5d065463b2df0571db4df41287",
   "tipo": "text/xml"
  },
  "/sitemap-pages.xml": {
   "code": 200,
   "fichero": "sitemap-pages.xml",
-  "sha256": "00d6e2e72062f05fac39821d33ddb40f48e26ab339fd4d295f75c7598cf508df",
+  "sha256": "85bf31a1c91e44def65886e9baa6328b1451e81d64f565d59014f398e16dc21a",
   "tipo": "text/xml"
  },
  "/sitemap-posts.xml": {
   "code": 200,
   "fichero": "sitemap-posts.xml",
-  "sha256": "27cbe0754cfa05f91fd6e9251c239c6bdf322fa7ee651998dd805d8e9b29cf10",
+  "sha256": "df7a90e54f1a3a919b72a194a94a6a95af5edc1422d39c1604159f21b63b3101",
   "tipo": "text/xml"
  },
  "/sitemap-tags.xml": {
@@ -2772,7 +2808,7 @@
  "/sitemap.xml": {
   "code": 200,
   "fichero": "sitemap.xml",
-  "sha256": "ec63e2034890cbdc096afe8446e24bcb0c86fabd621561f041277dc563b1f54d",
+  "sha256": "3ca2619fb4e15682177d45e06d2812dc00f8170c1ef086116b3ce7dc0058a3aa",
   "tipo": "text/xml"
  },
  "/sitemap.xsl": {
@@ -2784,7 +2820,7 @@
  "/socorro-1964-ovni-lonnie-zamora/": {
   "code": 200,
   "fichero": "socorro-1964-ovni-lonnie-zamora/index.html",
-  "sha256": "5ba3ce87a0bd4d782c48f5a19a21ce9b2968ea75fd16b70d159491fcdba5318f",
+  "sha256": "e25937a649eb331ae4de3b344f0afd7bb7d8f69e32330d14cc902dd361df8dfc",
   "tipo": "text/html"
  },
  "/tag/casos-clasicos/": {
@@ -2814,85 +2850,91 @@
  "/tag/casos-militares/": {
   "code": 200,
   "fichero": "tag/casos-militares/index.html",
-  "sha256": "88c5c15a80583134570a9d339d10d9bd0996e3e7f66e2ee1df866437da099f86",
+  "sha256": "e738e864933d1fc934515fe7e3d212872aadf9148367a466474de4e28c7ed620",
   "tipo": "text/html"
  },
  "/tag/casos-militares/page/2/": {
   "code": 200,
   "fichero": "tag/casos-militares/page/2/index.html",
-  "sha256": "9f5406566e7faadd18650000f701adc0d21c54028a79c0f1e6b9f12e92f01df4",
+  "sha256": "8ecf72fed684abfb3269527990e4c2136d9f0ff926ad191ab167ecba02fe01f2",
   "tipo": "text/html"
  },
  "/tag/casos-militares/page/3/": {
   "code": 200,
   "fichero": "tag/casos-militares/page/3/index.html",
-  "sha256": "2c9a7341612d83f05a09c9688865ffc0b523b58d0524324e9a62ac3b94f44424",
+  "sha256": "5a30e6dc9e1258e11d08b2a7855e69e07a4fea8f65602ab7838ea9a9168f4da2",
   "tipo": "text/html"
  },
  "/tag/casos-militares/page/4/": {
   "code": 200,
   "fichero": "tag/casos-militares/page/4/index.html",
-  "sha256": "9c0ccbab3686d3b0e4e2053e58929245f405a1b0d61eefb80c5a0426af307e91",
+  "sha256": "016d85eea0b98334e8b1830245e864d4cc32d6c234077e5e25c3dd28a38b331d",
   "tipo": "text/html"
  },
  "/tag/desclasificados/": {
   "code": 200,
   "fichero": "tag/desclasificados/index.html",
-  "sha256": "d2b207cf4b94d9c102edd23d031e6a9a1066a5a82198cdd0a436c81ce15e0aef",
+  "sha256": "f190d88ea3feed95634dfc1716486ea314c3c75e27953ac69a60ab2213296995",
   "tipo": "text/html"
  },
  "/tag/desclasificados/page/2/": {
   "code": 200,
   "fichero": "tag/desclasificados/page/2/index.html",
-  "sha256": "d67008edd4fa0080d4fc1a900b51ff693d7871fc0998d2d705fa9036c3f87f64",
+  "sha256": "3f921dbf8f4cc0850460c228dd4960bc21f9dabd49529fa6db6a5ddfde587b22",
   "tipo": "text/html"
  },
  "/tag/desclasificados/page/3/": {
   "code": 200,
   "fichero": "tag/desclasificados/page/3/index.html",
-  "sha256": "43fe3ee6314d2e10633960a530fb8014b96fbac39897c4186d5487d8b6431d56",
+  "sha256": "cd020242c7a4b706d3706f15b9778343d7ede73a993bf582a09c546c831344ae",
   "tipo": "text/html"
  },
  "/tag/desclasificados/page/4/": {
   "code": 200,
   "fichero": "tag/desclasificados/page/4/index.html",
-  "sha256": "7a4444983b027f69fd5ad0547cd7c190a33cd64ff226a7826f551f5c428455b3",
+  "sha256": "cc093a37e3ea93a264e9e51fd70d7df86f56bf64d8ef738255a15690524ec3d4",
+  "tipo": "text/html"
+ },
+ "/tag/desclasificados/page/5/": {
+  "code": 200,
+  "fichero": "tag/desclasificados/page/5/index.html",
+  "sha256": "2ebaa82571943d2943ecfa65784a89458e3bbe30460f4f391281d9094353ebde",
   "tipo": "text/html"
  },
  "/tag/investigacion/": {
   "code": 200,
   "fichero": "tag/investigacion/index.html",
-  "sha256": "a70893ca5cf46da8d08bfed3df00f6b93d311ec6d39a79b308a784f374eb055f",
+  "sha256": "294bc9481c7828899fec990a59678564476c07e2361ab1b87a2b7d44a31eb63f",
   "tipo": "text/html"
  },
  "/tag/investigacion/page/2/": {
   "code": 200,
   "fichero": "tag/investigacion/page/2/index.html",
-  "sha256": "9d5bd795fe585e021f952da53888f07469df05faa90365ae21bd3f6dc37a9823",
+  "sha256": "826755f9a789ab9481d016669f2a9182d47c0cd13b1590ec7d7ca3cbd5e32b80",
   "tipo": "text/html"
  },
  "/tag/investigacion/page/3/": {
   "code": 200,
   "fichero": "tag/investigacion/page/3/index.html",
-  "sha256": "e98f439e751a2c2c6d1943c418a47ce0c7555ea7c6061d98b3b084c012158ae7",
+  "sha256": "9ddea52a3c83f8d7f2657205561501ac62036d4481e763444329f042ca2511a3",
   "tipo": "text/html"
  },
  "/tag/investigacion/page/4/": {
   "code": 200,
   "fichero": "tag/investigacion/page/4/index.html",
-  "sha256": "273b62c7136567e097873441d92046a2b5fdef6bc7707d2071f27c75697738e8",
+  "sha256": "0bdb94f84670ef02c7d76b3ded40e85af44faa03b91225064958cfff922c1948",
   "tipo": "text/html"
  },
  "/tag/investigacion/page/5/": {
   "code": 200,
   "fichero": "tag/investigacion/page/5/index.html",
-  "sha256": "cc4f843d66106cb44a48c453aeda5ad55c81a0576815878f4fef17b68d13e39f",
+  "sha256": "0d2cdc11f371186d84391958710012e483b07fa54c2d1442f5b413a3acb6e6d2",
   "tipo": "text/html"
  },
  "/tag/investigacion/page/6/": {
   "code": 200,
   "fichero": "tag/investigacion/page/6/index.html",
-  "sha256": "40004414e7353ae6633718e3336d1cd2179228c2c3bfbd9c468492728d0b856d",
+  "sha256": "e53815e46db06d6203b644f5e99f31ffcd73e927ee37081290a518449244190b",
   "tipo": "text/html"
  },
  "/tag/pursue/": {
@@ -2904,91 +2946,91 @@
  "/tag/uap/": {
   "code": 200,
   "fichero": "tag/uap/index.html",
-  "sha256": "bf71b70e35383c90c5b1260d3308efd58d0ece1a7e13ca7348241ea80d854e6f",
+  "sha256": "9f92e8f51acbd86c381d7fc26e3255d77a73b5e838cf282d9bd0069850b28025",
   "tipo": "text/html"
  },
  "/tag/uap/page/2/": {
   "code": 200,
   "fichero": "tag/uap/page/2/index.html",
-  "sha256": "0f78635a59e10e2539d5d572a4097c68a687ace5f361d2021e38a450595cdfe4",
+  "sha256": "dc6f82d887fea9ee4a259709badee9f4532e877477f8a62e3e3d4aba253b3857",
   "tipo": "text/html"
  },
  "/tag/uap/page/3/": {
   "code": 200,
   "fichero": "tag/uap/page/3/index.html",
-  "sha256": "a0e43a84f0ca804c6a441715e53e955e62f37a5bfccb0311c899db94e9bbd62e",
+  "sha256": "6c1d40f5e8172cc47f3d6b01901904ce31239fba3c9fd5f1a65c469b08161919",
   "tipo": "text/html"
  },
  "/tag/uap/page/4/": {
   "code": 200,
   "fichero": "tag/uap/page/4/index.html",
-  "sha256": "7dcf6c344e1af52dee4271d31a800957829ce7f2a563cb11af5a10f02ee9528b",
+  "sha256": "38906bb52d54ac603fae9879f57d3bc071384269493a63ea9466cc4e69ba20ab",
   "tipo": "text/html"
  },
  "/talavera-la-real-1976-humanoide-verde/": {
   "code": 200,
   "fichero": "talavera-la-real-1976-humanoide-verde/index.html",
-  "sha256": "1d1f2adafdf1e6d48aaa005fcd1d47e05031e613eece25baef7306d28ff6bc45",
+  "sha256": "406ad9926cc02043447c9c82e2b2045974e5877300d344d843baa3df8be8b372",
   "tipo": "text/html"
  },
  "/teheran-1976-cazas-f-4-ovni/": {
   "code": 200,
   "fichero": "teheran-1976-cazas-f-4-ovni/index.html",
-  "sha256": "92a531ed94c005265dbd41ee03b47087c5eba3cdbc4fd6c8b5c00d95a8f1ce0f",
+  "sha256": "757446518ecc120a7d1fcd7655d7ebfb755f493a0aef83084bbc3688f22b30f3",
   "tipo": "text/html"
  },
  "/trans-en-provence-1981-ovni-gepan/": {
   "code": 200,
   "fichero": "trans-en-provence-1981-ovni-gepan/index.html",
-  "sha256": "95229793c0ccf1bb328e5d8f38dc7a2b8c908b60d9f7fac9992ccb3ef5bc2ce1",
+  "sha256": "f0366e2acf64e6394a277e1350dbe41c3380519848b6ba5c4fba3432c86adeac",
   "tipo": "text/html"
  },
  "/travis-walton-1975-abduccion-ovni-arizona/": {
   "code": 200,
   "fichero": "travis-walton-1975-abduccion-ovni-arizona/index.html",
-  "sha256": "3a5476cf5df7fa41e68e6ca48285b9d08a021047961e6eb9ac4425b9fd9eef45",
+  "sha256": "e474cf2b5193d91884bb5267c054594c645a1916d00033219a53706578c2f180",
   "tipo": "text/html"
  },
  "/triangulo-junio-2026-aaro-fbi-dos-expedientes/": {
   "code": 200,
   "fichero": "triangulo-junio-2026-aaro-fbi-dos-expedientes/index.html",
-  "sha256": "53d0a718a11d269432f7f5afffc2c96ac96c92478ccfbac0dc263461d8c9537f",
+  "sha256": "a6d3c5d90b232c12bd27f4c9c5e3c900adbaacae1cc5a70aa6d5aba8a07567b1",
   "tipo": "text/html"
  },
  "/uss-russell-2019-piramides-drones-enjambre/": {
   "code": 200,
   "fichero": "uss-russell-2019-piramides-drones-enjambre/index.html",
-  "sha256": "c6092faaab59778dbf84bad4f90af7200bfed939898a668d7889069bc1b3dfff",
+  "sha256": "8cec6369cdb9cd7e562dac5cfe5c0ae68feab09182a71f743b6375ebaca17b3e",
   "tipo": "text/html"
  },
  "/vallecas-1992-atestado-no-dice-paranormal/": {
   "code": 200,
   "fichero": "vallecas-1992-atestado-no-dice-paranormal/index.html",
-  "sha256": "79aeebae56f6e273b5cd6e6a8dd603db54bc22b836d2840ddc0800bf3cdf0b21",
+  "sha256": "408c65cd25fe8e525d8b53dbe4ede9257f07703e5d17aa2c284319f6973642c4",
   "tipo": "text/html"
  },
  "/varginha-1996-el-caso-ovni-mas-intrigante-de-brasil/": {
   "code": 200,
   "fichero": "varginha-1996-el-caso-ovni-mas-intrigante-de-brasil/index.html",
-  "sha256": "2a2d72ed3d48e05946a116c98c97b06c4e8c378df7d401afe7ae52de5bd8e6c2",
+  "sha256": "b27c84fca185c30ec89dc5830ff8bbe3c27e9dfac20b126b9d5b7b6240042ee5",
   "tipo": "text/html"
  },
  "/vaticano-extraterrestres-iglesia-catolica/": {
   "code": 200,
   "fichero": "vaticano-extraterrestres-iglesia-catolica/index.html",
-  "sha256": "25d7fbf7f31f8860fba88e243b3eca58eca09eefaf6bd54ddba061de914e3d0b",
+  "sha256": "67a223a2133d11244c2059175db2d9197b755b5245468977b8e4eabbc3ec4e68",
   "tipo": "text/html"
  },
  "/vilas-boas-1957-abduccion-ovni-brasil/": {
   "code": 200,
   "fichero": "vilas-boas-1957-abduccion-ovni-brasil/index.html",
-  "sha256": "3642c21941501c21efbdaa23eec34f7b7e768f985dc3401690c8c38846399038",
+  "sha256": "4db5849385d8efc1b0ac975024334357653b9a6a3545575c5146ca25e98c05e5",
   "tipo": "text/html"
  },
  "/westall-1966-ovni-melbourne/": {
   "code": 200,
   "fichero": "westall-1966-ovni-melbourne/index.html",
-  "sha256": "6869b6065a1eb04c7d44bc78f50a0e7b7f90dbce703c6e0dda6f323c55af841c",
+  "sha256": "89f637d4c52e8143770b64a2fe9205a3d2563eace2b96f0f2086f66ecf1b41a4",
   "tipo": "text/html"
  }
 }
