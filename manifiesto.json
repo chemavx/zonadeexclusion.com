@@ -14,7 +14,7 @@
  "/aaro-2024-ocho-decadas-investigacion-oficial/": {
   "code": 200,
   "fichero": "aaro-2024-ocho-decadas-investigacion-oficial/index.html",
-  "sha256": "d6093a5333c1bc29b5a65829bef6dd867c4e99ec2f714356ce0592700888ed51",
+  "sha256": "0430debf5d45b0f401f2519a73330c61573b6e0986c124fedf70068f389721c0",
   "tipo": "text/html"
  },
  "/aaro-vs-grusch-pentagono-testimonio-contradiccion/": {
@@ -1209,6 +1209,12 @@
   "code": 200,
   "fichero": "content/images/size/w1200/2026/10/222-archivos-ovni-desclasificados-pentagono-2026.webp",
   "sha256": "2f6ae27ff9dfa84b59407465275089c30a8f7b216077983a4b70eabce745f095",
+  "tipo": "image/webp"
+ },
+ "/content/images/size/w1200/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/es-aaro-2024-ocho-decadas-investigacion-oficial-infografia-1.webp",
+  "sha256": "f1bc76ae8ebd97011627a11dd7ecf1bb9f2704c2f3e55aaee78a30de3ee4878f",
   "tipo": "image/webp"
  },
  "/content/images/size/w1200/2026/10/es-fragmentos-1962-1964-la-palabra-que-borraron-del-papel-publi-infografia.webp": {
