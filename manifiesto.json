@@ -1235,6 +1235,12 @@
   "sha256": "a4af310afcf1892e56cea352d397fb4cd8de084e1c29fefa81e4d809aa43249b",
   "tipo": "image/webp"
  },
+ "/content/images/size/w1200/2026/10/es-proyecto-stargate-vision-remota-cia-1972-1995-infografia.webp": {
+  "code": 200,
+  "fichero": "content/images/size/w1200/2026/10/es-proyecto-stargate-vision-remota-cia-1972-1995-infografia.webp",
+  "sha256": "8c382c14175d20d3973ce0335e05ef3312c06ab44d7ac83a18504e0b3f03b939",
+  "tipo": "image/webp"
+ },
  "/content/images/size/w1200/2026/10/es-rancho-utah-2010-informe-baass-dia-pursue-lote-7-infografia-2.webp": {
   "code": 200,
   "fichero": "content/images/size/w1200/2026/10/es-rancho-utah-2010-informe-baass-dia-pursue-lote-7-infografia-2.webp",
@@ -2724,7 +2730,7 @@
  "/proyecto-stargate-vision-remota-cia-1972-1995/": {
   "code": 200,
   "fichero": "proyecto-stargate-vision-remota-cia-1972-1995/index.html",
-  "sha256": "b5bd28df396450f68920fdcc7edf364194b30e2c2b64826dc8a6d2c5b7a2f262",
+  "sha256": "b7ed47c7dfe816412785398ff0872446330319edeb8181b311f1b2ca812891ba",
   "tipo": "text/html"
  },
  "/public/cards.min.css": {
